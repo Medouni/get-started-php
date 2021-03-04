@@ -2,4 +2,4 @@
 applications:
  - name: GetStartedPHP
    random-route: true
-   memory: 128M
+   memory: 67M
